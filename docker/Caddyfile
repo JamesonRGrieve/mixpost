@@ -1,3 +1,0 @@
-{$APP_DOMAIN} {
-	reverse_proxy mixpost:9000
-}
